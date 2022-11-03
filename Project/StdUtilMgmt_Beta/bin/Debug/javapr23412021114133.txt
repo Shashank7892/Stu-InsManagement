@@ -1,0 +1,16 @@
+int i,j;
+     String m=args[0], n=args[1];
+     int m1=Integer.parseInt(m);
+     int n1=Integer.parseInt(n);
+     System.out.println("==============================");
+     System.out.println("fact series between " +m1+" and "+n1);
+     System.out.println("==============================");
+     for(i=1;i<=n1;i++)
+     {
+    	 int fact=1;
+    	 for(j=1;j<=i;j++)
+    		 fact=fact*j;
+    	 System.out.println("fact of  " + i +" = " + fact + "\n");
+     }
+     System.out.println("=======================================");
+	}

@@ -1,0 +1,245 @@
+C:\Users\THARUN M A\source\repos\StdUtilMgmt_Beta\bin\Debug\StdUtilMgmt_Beta.exe.config
+C:\Users\THARUN M A\source\repos\StdUtilMgmt_Beta\bin\Debug\StdUtilMgmt_Beta.exe
+C:\Users\THARUN M A\source\repos\StdUtilMgmt_Beta\bin\Debug\StdUtilMgmt_Beta.pdb
+C:\Users\THARUN M A\source\repos\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.csprojAssemblyReference.cache
+C:\Users\THARUN M A\source\repos\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.StudendDashboardForm.resources
+C:\Users\THARUN M A\source\repos\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.LoginForm.resources
+C:\Users\THARUN M A\source\repos\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SignUpForm.resources
+C:\Users\THARUN M A\source\repos\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.Properties.Resources.resources
+C:\Users\THARUN M A\source\repos\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.csproj.GenerateResource.cache
+C:\Users\THARUN M A\source\repos\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.csproj.CoreCompileInputs.cache
+C:\Users\THARUN M A\source\repos\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.exe
+C:\Users\THARUN M A\source\repos\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.pdb
+C:\Users\THARUN M A\source\repos\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.BrowserForm.resources
+C:\Users\THARUN M A\source\repos\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.CalculatorForm.resources
+C:\Users\THARUN M A\source\repos\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.Form1.resources
+C:\Users\THARUN M A\source\repos\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.GamesForm.resources
+C:\Users\THARUN M A\source\repos\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.PdfReaderForm.resources
+C:\Users\THARUN M A\source\repos\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntConfDataForm.resources
+C:\Users\THARUN M A\source\repos\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntStatForm.resources
+C:\Users\SHASHANK C\Desktop\Project\StdUtilMgmt_Beta\bin\Debug\StdUtilMgmt_Beta.exe.config
+C:\Users\SHASHANK C\Desktop\Project\StdUtilMgmt_Beta\bin\Debug\StdUtilMgmt_Beta.exe
+C:\Users\SHASHANK C\Desktop\Project\StdUtilMgmt_Beta\bin\Debug\StdUtilMgmt_Beta.pdb
+C:\Users\SHASHANK C\Desktop\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.csprojAssemblyReference.cache
+C:\Users\SHASHANK C\Desktop\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.BrowserForm.resources
+C:\Users\SHASHANK C\Desktop\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.CalculatorForm.resources
+C:\Users\SHASHANK C\Desktop\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.GamesForm.resources
+C:\Users\SHASHANK C\Desktop\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.PdfReaderForm.resources
+C:\Users\SHASHANK C\Desktop\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntConfDataForm.resources
+C:\Users\SHASHANK C\Desktop\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntStatForm.resources
+C:\Users\SHASHANK C\Desktop\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.StudendDashboardForm.resources
+C:\Users\SHASHANK C\Desktop\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.LoginForm.resources
+C:\Users\SHASHANK C\Desktop\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SignUpForm.resources
+C:\Users\SHASHANK C\Desktop\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.Properties.Resources.resources
+C:\Users\SHASHANK C\Desktop\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.csproj.GenerateResource.cache
+C:\Users\SHASHANK C\Desktop\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.csproj.CoreCompileInputs.cache
+C:\Users\SHASHANK C\Desktop\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.exe
+C:\Users\SHASHANK C\Desktop\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.pdb
+C:\Users\SHASHANK C\Desktop\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.PdfFileUploaderForm.resources
+C:\Users\SHASHANK C\Desktop\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntDataGenratorForm.resources
+C:\Users\SHASHANK C\Desktop\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntPolicyToolForm.resources
+C:\Users\SHASHANK C\Desktop\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.TeachersDashboardForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.csprojAssemblyReference.cache
+C:\Users\THARUN M A\Desktop\Project!\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.BrowserForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.CalculatorForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.PdfFileUploaderForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntDataGenratorForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntPolicyToolForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.TeachersDashboardForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.GamesForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.PdfReaderForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntConfDataForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntStatForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.StudendDashboardForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.LoginForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SignUpForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.Properties.Resources.resources
+C:\Users\THARUN M A\Desktop\Project!\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.csproj.GenerateResource.cache
+C:\Users\THARUN M A\Desktop\Project!\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.csproj.CoreCompileInputs.cache
+C:\Users\THARUN M A\Desktop\Project!\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.exe
+C:\Users\THARUN M A\Desktop\Project!\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.pdb
+C:\Users\THARUN M A\Desktop\Project!\Project!\Project\StdUtilMgmt_Beta\bin\Debug\StdUtilMgmt_Beta.exe.config
+C:\Users\THARUN M A\Desktop\Project!\Project!\Project\StdUtilMgmt_Beta\bin\Debug\StdUtilMgmt_Beta.exe
+C:\Users\THARUN M A\Desktop\Project!\Project!\Project\StdUtilMgmt_Beta\bin\Debug\StdUtilMgmt_Beta.pdb
+C:\Users\THARUN M A\Desktop\Project!\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntPrblmReportFrom.resources
+C:\Users\THARUN M A\Desktop\Project!\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntReportViewerForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.MyProfileForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.AlertsUpdateForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.CGPAForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntApprovalfm.resources
+C:\Users\SHASHANK C\Desktop\Project!17\Project!\Project\StdUtilMgmt_Beta\bin\Debug\StdUtilMgmt_Beta.exe.config
+C:\Users\SHASHANK C\Desktop\Project!17\Project!\Project\StdUtilMgmt_Beta\bin\Debug\StdUtilMgmt_Beta.exe
+C:\Users\SHASHANK C\Desktop\Project!17\Project!\Project\StdUtilMgmt_Beta\bin\Debug\StdUtilMgmt_Beta.pdb
+C:\Users\SHASHANK C\Desktop\Project!17\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.csprojAssemblyReference.cache
+C:\Users\SHASHANK C\Desktop\Project!17\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.BrowserForm.resources
+C:\Users\SHASHANK C\Desktop\Project!17\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.CalculatorForm.resources
+C:\Users\SHASHANK C\Desktop\Project!17\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.AlertsUpdateForm.resources
+C:\Users\SHASHANK C\Desktop\Project!17\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.CGPAForm.resources
+C:\Users\SHASHANK C\Desktop\Project!17\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.MyProfileForm.resources
+C:\Users\SHASHANK C\Desktop\Project!17\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.PdfFileUploaderForm.resources
+C:\Users\SHASHANK C\Desktop\Project!17\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntApprovalfm.resources
+C:\Users\SHASHANK C\Desktop\Project!17\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntDataGenratorForm.resources
+C:\Users\SHASHANK C\Desktop\Project!17\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntPolicyToolForm.resources
+C:\Users\SHASHANK C\Desktop\Project!17\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntPrblmReportFrom.resources
+C:\Users\SHASHANK C\Desktop\Project!17\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntReportViewerForm.resources
+C:\Users\SHASHANK C\Desktop\Project!17\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.TeachersDashboardForm.resources
+C:\Users\SHASHANK C\Desktop\Project!17\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.GamesForm.resources
+C:\Users\SHASHANK C\Desktop\Project!17\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.PdfReaderForm.resources
+C:\Users\SHASHANK C\Desktop\Project!17\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntConfDataForm.resources
+C:\Users\SHASHANK C\Desktop\Project!17\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntStatForm.resources
+C:\Users\SHASHANK C\Desktop\Project!17\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.StudendDashboardForm.resources
+C:\Users\SHASHANK C\Desktop\Project!17\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.LoginForm.resources
+C:\Users\SHASHANK C\Desktop\Project!17\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SignUpForm.resources
+C:\Users\SHASHANK C\Desktop\Project!17\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.Properties.Resources.resources
+C:\Users\SHASHANK C\Desktop\Project!17\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.csproj.GenerateResource.cache
+C:\Users\SHASHANK C\Desktop\Project!17\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.csproj.CoreCompileInputs.cache
+C:\Users\SHASHANK C\Desktop\Project!17\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.exe
+C:\Users\SHASHANK C\Desktop\Project!17\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.pdb
+C:\Users\SHASHANK C\Desktop\Project!17\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.Documentuploader.resources
+C:\Users\SHASHANK C\Desktop\Project!17\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.Documentviewer.resources
+C:\Users\SHASHANK C\Desktop\New folder\Project!18\Project!\Project\StdUtilMgmt_Beta\bin\Debug\StdUtilMgmt_Beta.exe.config
+C:\Users\SHASHANK C\Desktop\New folder\Project!18\Project!\Project\StdUtilMgmt_Beta\bin\Debug\StdUtilMgmt_Beta.exe
+C:\Users\SHASHANK C\Desktop\New folder\Project!18\Project!\Project\StdUtilMgmt_Beta\bin\Debug\StdUtilMgmt_Beta.pdb
+C:\Users\SHASHANK C\Desktop\New folder\Project!18\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.csprojAssemblyReference.cache
+C:\Users\SHASHANK C\Desktop\New folder\Project!18\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.BrowserForm.resources
+C:\Users\SHASHANK C\Desktop\New folder\Project!18\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.CalculatorForm.resources
+C:\Users\SHASHANK C\Desktop\New folder\Project!18\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.AlertsUpdateForm.resources
+C:\Users\SHASHANK C\Desktop\New folder\Project!18\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.CGPAForm.resources
+C:\Users\SHASHANK C\Desktop\New folder\Project!18\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.Documentuploader.resources
+C:\Users\SHASHANK C\Desktop\New folder\Project!18\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.Documentviewer.resources
+C:\Users\SHASHANK C\Desktop\New folder\Project!18\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.MyProfileForm.resources
+C:\Users\SHASHANK C\Desktop\New folder\Project!18\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.PdfFileUploaderForm.resources
+C:\Users\SHASHANK C\Desktop\New folder\Project!18\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntApprovalfm.resources
+C:\Users\SHASHANK C\Desktop\New folder\Project!18\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntDataGenratorForm.resources
+C:\Users\SHASHANK C\Desktop\New folder\Project!18\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntPolicyToolForm.resources
+C:\Users\SHASHANK C\Desktop\New folder\Project!18\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntPrblmReportFrom.resources
+C:\Users\SHASHANK C\Desktop\New folder\Project!18\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntReportViewerForm.resources
+C:\Users\SHASHANK C\Desktop\New folder\Project!18\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.TeachersDashboardForm.resources
+C:\Users\SHASHANK C\Desktop\New folder\Project!18\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.GamesForm.resources
+C:\Users\SHASHANK C\Desktop\New folder\Project!18\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.PdfReaderForm.resources
+C:\Users\SHASHANK C\Desktop\New folder\Project!18\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntConfDataForm.resources
+C:\Users\SHASHANK C\Desktop\New folder\Project!18\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntStatForm.resources
+C:\Users\SHASHANK C\Desktop\New folder\Project!18\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.StudendDashboardForm.resources
+C:\Users\SHASHANK C\Desktop\New folder\Project!18\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.LoginForm.resources
+C:\Users\SHASHANK C\Desktop\New folder\Project!18\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SignUpForm.resources
+C:\Users\SHASHANK C\Desktop\New folder\Project!18\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.Properties.Resources.resources
+C:\Users\SHASHANK C\Desktop\New folder\Project!18\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.csproj.GenerateResource.cache
+C:\Users\SHASHANK C\Desktop\New folder\Project!18\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.csproj.CoreCompileInputs.cache
+C:\Users\SHASHANK C\Desktop\New folder\Project!18\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.exe
+C:\Users\SHASHANK C\Desktop\New folder\Project!18\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.pdb
+C:\Users\THARUN M A\Desktop\Project!\Project\StdUtilMgmt_Beta\bin\Debug\StdUtilMgmt_Beta.exe.config
+C:\Users\THARUN M A\Desktop\Project!\Project\StdUtilMgmt_Beta\bin\Debug\StdUtilMgmt_Beta.exe
+C:\Users\THARUN M A\Desktop\Project!\Project\StdUtilMgmt_Beta\bin\Debug\StdUtilMgmt_Beta.pdb
+C:\Users\THARUN M A\Desktop\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.csprojAssemblyReference.cache
+C:\Users\THARUN M A\Desktop\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.BrowserForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.CalculatorForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.AlertsUpdateForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.CGPAForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.Documentuploader.resources
+C:\Users\THARUN M A\Desktop\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.Documentviewer.resources
+C:\Users\THARUN M A\Desktop\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.MyProfileForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntApprovalfm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntPolicyToolForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntPrblmReportFrom.resources
+C:\Users\THARUN M A\Desktop\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntReportViewerForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.TeachersDashboardForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.GamesForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntConfDataForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntStatForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.StudendDashboardForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.LoginForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SignUpForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.Properties.Resources.resources
+C:\Users\THARUN M A\Desktop\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.csproj.GenerateResource.cache
+C:\Users\THARUN M A\Desktop\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.csproj.CoreCompileInputs.cache
+C:\Users\THARUN M A\Desktop\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.exe
+C:\Users\THARUN M A\Desktop\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.pdb
+C:\Users\THARUN M A\Desktop\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.RecoveryForm.resources
+C:\Users\THARUN M A\Desktop\Project!\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.ManageSdnt.resources
+C:\Users\THARUN M.A\Desktop\Project!20\Project\StdUtilMgmt_Beta\bin\Debug\StdUtilMgmt_Beta.exe.config
+C:\Users\THARUN M.A\Desktop\Project!20\Project\StdUtilMgmt_Beta\bin\Debug\StdUtilMgmt_Beta.exe
+C:\Users\THARUN M.A\Desktop\Project!20\Project\StdUtilMgmt_Beta\bin\Debug\StdUtilMgmt_Beta.pdb
+C:\Users\THARUN M.A\Desktop\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.csprojAssemblyReference.cache
+C:\Users\THARUN M.A\Desktop\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.BrowserForm.resources
+C:\Users\THARUN M.A\Desktop\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.CalculatorForm.resources
+C:\Users\THARUN M.A\Desktop\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.AlertsUpdateForm.resources
+C:\Users\THARUN M.A\Desktop\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.CGPAForm.resources
+C:\Users\THARUN M.A\Desktop\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.Documentuploader.resources
+C:\Users\THARUN M.A\Desktop\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.Documentviewer.resources
+C:\Users\THARUN M.A\Desktop\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.ManageSdnt.resources
+C:\Users\THARUN M.A\Desktop\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.RecoveryForm.resources
+C:\Users\THARUN M.A\Desktop\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.MyProfileForm.resources
+C:\Users\THARUN M.A\Desktop\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntApprovalfm.resources
+C:\Users\THARUN M.A\Desktop\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntPolicyToolForm.resources
+C:\Users\THARUN M.A\Desktop\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntPrblmReportFrom.resources
+C:\Users\THARUN M.A\Desktop\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntReportViewerForm.resources
+C:\Users\THARUN M.A\Desktop\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.TeachersDashboardForm.resources
+C:\Users\THARUN M.A\Desktop\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.GamesForm.resources
+C:\Users\THARUN M.A\Desktop\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntConfDataForm.resources
+C:\Users\THARUN M.A\Desktop\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntStatForm.resources
+C:\Users\THARUN M.A\Desktop\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.StudendDashboardForm.resources
+C:\Users\THARUN M.A\Desktop\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.LoginForm.resources
+C:\Users\THARUN M.A\Desktop\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SignUpForm.resources
+C:\Users\THARUN M.A\Desktop\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.Properties.Resources.resources
+C:\Users\THARUN M.A\Desktop\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.csproj.GenerateResource.cache
+C:\Users\THARUN M.A\Desktop\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.csproj.CoreCompileInputs.cache
+C:\Users\THARUN M.A\Desktop\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.exe
+C:\Users\THARUN M.A\Desktop\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.pdb
+C:\Users\THARUN M.A\Pictures\Desk project and edit\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.csprojAssemblyReference.cache
+C:\Users\THARUN M.A\Pictures\Desk project and edit\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.exe
+C:\Users\THARUN M.A\Pictures\Desk project and edit\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.pdb
+C:\Users\THARUN M.A\Pictures\Desk project and edit\Project!20\Project\StdUtilMgmt_Beta\bin\Debug\StdUtilMgmt_Beta.exe.config
+C:\Users\THARUN M.A\Pictures\Desk project and edit\Project!20\Project\StdUtilMgmt_Beta\bin\Debug\StdUtilMgmt_Beta.exe
+C:\Users\THARUN M.A\Pictures\Desk project and edit\Project!20\Project\StdUtilMgmt_Beta\bin\Debug\StdUtilMgmt_Beta.pdb
+C:\Users\THARUN M.A\Pictures\Desk project and edit\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.BrowserForm.resources
+C:\Users\THARUN M.A\Pictures\Desk project and edit\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.CalculatorForm.resources
+C:\Users\THARUN M.A\Pictures\Desk project and edit\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.AlertsUpdateForm.resources
+C:\Users\THARUN M.A\Pictures\Desk project and edit\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.CGPAForm.resources
+C:\Users\THARUN M.A\Pictures\Desk project and edit\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.Documentuploader.resources
+C:\Users\THARUN M.A\Pictures\Desk project and edit\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.Documentviewer.resources
+C:\Users\THARUN M.A\Pictures\Desk project and edit\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.ManageSdnt.resources
+C:\Users\THARUN M.A\Pictures\Desk project and edit\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.RecoveryForm.resources
+C:\Users\THARUN M.A\Pictures\Desk project and edit\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.MyProfileForm.resources
+C:\Users\THARUN M.A\Pictures\Desk project and edit\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntApprovalfm.resources
+C:\Users\THARUN M.A\Pictures\Desk project and edit\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntPolicyToolForm.resources
+C:\Users\THARUN M.A\Pictures\Desk project and edit\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntPrblmReportFrom.resources
+C:\Users\THARUN M.A\Pictures\Desk project and edit\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntReportViewerForm.resources
+C:\Users\THARUN M.A\Pictures\Desk project and edit\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.TeachersDashboardForm.resources
+C:\Users\THARUN M.A\Pictures\Desk project and edit\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.GamesForm.resources
+C:\Users\THARUN M.A\Pictures\Desk project and edit\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntConfDataForm.resources
+C:\Users\THARUN M.A\Pictures\Desk project and edit\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntStatForm.resources
+C:\Users\THARUN M.A\Pictures\Desk project and edit\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.StudendDashboardForm.resources
+C:\Users\THARUN M.A\Pictures\Desk project and edit\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.LoginForm.resources
+C:\Users\THARUN M.A\Pictures\Desk project and edit\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SignUpForm.resources
+C:\Users\THARUN M.A\Pictures\Desk project and edit\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.Properties.Resources.resources
+C:\Users\THARUN M.A\Pictures\Desk project and edit\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.csproj.GenerateResource.cache
+C:\Users\THARUN M.A\Pictures\Desk project and edit\Project!20\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.csproj.CoreCompileInputs.cache
+C:\Users\SHASHANK C\Desktop\projconf\Project\StdUtilMgmt_Beta\bin\Debug\StdUtilMgmt_Beta.exe.config
+C:\Users\SHASHANK C\Desktop\projconf\Project\StdUtilMgmt_Beta\bin\Debug\StdUtilMgmt_Beta.exe
+C:\Users\SHASHANK C\Desktop\projconf\Project\StdUtilMgmt_Beta\bin\Debug\StdUtilMgmt_Beta.pdb
+C:\Users\SHASHANK C\Desktop\projconf\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.csprojAssemblyReference.cache
+C:\Users\SHASHANK C\Desktop\projconf\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.BrowserForm.resources
+C:\Users\SHASHANK C\Desktop\projconf\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.CalculatorForm.resources
+C:\Users\SHASHANK C\Desktop\projconf\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.AlertsUpdateForm.resources
+C:\Users\SHASHANK C\Desktop\projconf\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.CGPAForm.resources
+C:\Users\SHASHANK C\Desktop\projconf\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.Documentuploader.resources
+C:\Users\SHASHANK C\Desktop\projconf\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.Documentviewer.resources
+C:\Users\SHASHANK C\Desktop\projconf\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.ManageSdnt.resources
+C:\Users\SHASHANK C\Desktop\projconf\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.RecoveryForm.resources
+C:\Users\SHASHANK C\Desktop\projconf\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.MyProfileForm.resources
+C:\Users\SHASHANK C\Desktop\projconf\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntApprovalfm.resources
+C:\Users\SHASHANK C\Desktop\projconf\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntPolicyToolForm.resources
+C:\Users\SHASHANK C\Desktop\projconf\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntPrblmReportFrom.resources
+C:\Users\SHASHANK C\Desktop\projconf\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntReportViewerForm.resources
+C:\Users\SHASHANK C\Desktop\projconf\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.TeachersDashboardForm.resources
+C:\Users\SHASHANK C\Desktop\projconf\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.GamesForm.resources
+C:\Users\SHASHANK C\Desktop\projconf\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntConfDataForm.resources
+C:\Users\SHASHANK C\Desktop\projconf\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SdntStatForm.resources
+C:\Users\SHASHANK C\Desktop\projconf\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.StudendDashboardForm.resources
+C:\Users\SHASHANK C\Desktop\projconf\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.LoginForm.resources
+C:\Users\SHASHANK C\Desktop\projconf\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.SignUpForm.resources
+C:\Users\SHASHANK C\Desktop\projconf\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.Properties.Resources.resources
+C:\Users\SHASHANK C\Desktop\projconf\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.csproj.GenerateResource.cache
+C:\Users\SHASHANK C\Desktop\projconf\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.csproj.CoreCompileInputs.cache
+C:\Users\SHASHANK C\Desktop\projconf\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.exe
+C:\Users\SHASHANK C\Desktop\projconf\Project\StdUtilMgmt_Beta\obj\Debug\StdUtilMgmt_Beta.pdb
